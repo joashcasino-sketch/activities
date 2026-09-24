@@ -1,7 +1,7 @@
 # Software in the Wild: Improving the Diyandi Experience Through Software
 
-> **Name:** [Write your full name]  
-> **Section:** [Write your section]  
+> **Name:** Joash S. Casiño  
+> **Section:** CS3A
 > **Date submitted:** [YYYY-MM-DD]
 
 ---
